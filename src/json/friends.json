@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://i.pinimg.com/564x/92/d2/a6/92d2a6886e41bf62ea567513439eb8c4.jpg",
+    "name": "Anastasia",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/c0/69/07/c069076e0cdaa08458f687bbbda522f9.jpg",
+    "name": "Julia",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/93/2f/5d/932f5d910afacb2d374fe7a8470cfc25.jpg",
+    "name": "Kate",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/e3/eb/77/e3eb77eb588bf83bf24ce46fb3bb6f84.jpg",
+    "name": "Olexandra",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/cf/ba/5b/cfba5bbb4589b01bd57142d22b692cca.jpg",
+    "name": "Miroslava",
+    "isOnline": false,
+    "id": 1284
+  }
+]
