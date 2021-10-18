@@ -12,7 +12,7 @@ export const Statistics = ({ title, stats }) => {
   return (
     <TaskTwoSection>
       <ContainerDiv>
-        <TitleH2>{title}</TitleH2>
+        {title &&<TitleH2>{title}</TitleH2>}
         <StatListUl>
           {stats.map(({ id, label, percentage }) => (
             <Stat
